@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="30">
+        <Folder id="3">
+            <Style id="0">
+                <LineStyle id="1">
+                    <color>ff2eb1fc</color>
+                    <colorMode>normal</colorMode>
+                    <width>0.52</width>
+                </LineStyle>
+                <PolyStyle id="2">
+                    <color>ff00b3ff</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Name_Religious</name>
+            <Placemark id="5">
+                <name>Building</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>714260002</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Building</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>Religious</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>Temple</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>NULL</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>15.83189445689</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>76.40846596193</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>NULL</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>NULL</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>21.617764120925084</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308230714</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="Shape_Leng">
+                        <value>21.61776412093</value>
+                        <displayName>Shape_Leng</displayName>
+                    </Data>
+                    <Data name="Shape_Area">
+                        <value>24.57577987375</value>
+                        <displayName>Shape_Area</displayName>
+                    </Data>
+                    <Data name="bld_htc_in">
+                        <value>1</value>
+                        <displayName>bld_htc_in</displayName>
+                    </Data>
+                </ExtendedData>
+                <MultiGeometry id="4">
+                    <Polygon id="6">
+                        <altitudeMode>clampToGround</altitudeMode>
+                        <outerBoundaryIs>
+                            <LinearRing id="10">
+                                <coordinates>76.40850089559257,15.831912510368118,0 76.40845636868981,15.83185982564668,0 76.40843102801723,15.831876403590503,0 76.40847555585145,15.83192908831125,0 76.40850089559257,15.831912510368118,0</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="30">
+                <name>Building</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>714260003</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Building</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>Religious</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>Temple</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>NULL</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>15.83309098602</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>76.40860549115</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>NULL</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>NULL</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>63.67598789907581</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308230714</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="Shape_Leng">
+                        <value>63.67598789908</value>
+                        <displayName>Shape_Leng</displayName>
+                    </Data>
+                    <Data name="Shape_Area">
+                        <value>240.18459431174</value>
+                        <displayName>Shape_Area</displayName>
+                    </Data>
+                    <Data name="bld_htc_in">
+                        <value>1</value>
+                        <displayName>bld_htc_in</displayName>
+                    </Data>
+                </ExtendedData>
+                <MultiGeometry id="29">
+                    <Polygon id="31">
+                        <altitudeMode>clampToGround</altitudeMode>
+                        <outerBoundaryIs>
+                            <LinearRing id="35">
+                                <coordinates>76.40865108340874,15.833176786062829,0 76.40867918777741,15.832999092164647,0 76.40854834893705,15.833018963745833,0 76.40853796693668,15.833176601534362,0 76.40865108340874,15.833176786062829,0</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="55">
+                <name>Building</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>714260004</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Building</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>Religious</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>Temple</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>NULL</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>15.83137625894</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>76.40809515222</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>NULL</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>NULL</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>17.21634919905212</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308230714</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="Shape_Leng">
+                        <value>17.21634919905</value>
+                        <displayName>Shape_Leng</displayName>
+                    </Data>
+                    <Data name="Shape_Area">
+                        <value>13.91863658535</value>
+                        <displayName>Shape_Area</displayName>
+                    </Data>
+                    <Data name="bld_htc_in">
+                        <value>1</value>
+                        <displayName>bld_htc_in</displayName>
+                    </Data>
+                </ExtendedData>
+                <MultiGeometry id="54">
+                    <Polygon id="56">
+                        <altitudeMode>clampToGround</altitudeMode>
+                        <outerBoundaryIs>
+                            <LinearRing id="60">
+                                <coordinates>76.40806575996471,15.831386687784182,0 76.40812592678107,15.831385313839027,0 76.40812454448103,15.83136583009713,0 76.4080643776704,15.831367204041435,0 76.40806575996471,15.831386687784182,0</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="80">
+                <name>Building</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>714260005</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Building</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>Religious</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>Temple</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>NULL</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>15.83107695018</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>76.4089359145</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>NULL</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>NULL</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>19.334612024332074</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308230714</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="Shape_Leng">
+                        <value>19.33461202433</value>
+                        <displayName>Shape_Leng</displayName>
+                    </Data>
+                    <Data name="Shape_Area">
+                        <value>21.61786352166</value>
+                        <displayName>Shape_Area</displayName>
+                    </Data>
+                    <Data name="bld_htc_in">
+                        <value>1</value>
+                        <displayName>bld_htc_in</displayName>
+                    </Data>
+                </ExtendedData>
+                <MultiGeometry id="79">
+                    <Polygon id="81">
+                        <altitudeMode>clampToGround</altitudeMode>
+                        <outerBoundaryIs>
+                            <LinearRing id="85">
+                                <coordinates>76.40896988627954,15.831083474762469,0 76.40895626770832,15.831054018214989,0 76.40890194236819,15.831070425658222,0 76.40891556186672,15.831099882203567,0 76.40896988627954,15.831083474762469,0</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="105">
+                <name>Building</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>714260006</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Building</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>Religious</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>Temple</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>NULL</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>15.8314420307</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>76.40846837809</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>NULL</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>NULL</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>19.110291638216516</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308230714</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="Shape_Leng">
+                        <value>19.11029163822</value>
+                        <displayName>Shape_Leng</displayName>
+                    </Data>
+                    <Data name="Shape_Area">
+                        <value>22.60783044648</value>
+                        <displayName>Shape_Area</displayName>
+                    </Data>
+                    <Data name="bld_htc_in">
+                        <value>1</value>
+                        <displayName>bld_htc_in</displayName>
+                    </Data>
+                </ExtendedData>
+                <MultiGeometry id="104">
+                    <Polygon id="106">
+                        <altitudeMode>clampToGround</altitudeMode>
+                        <outerBoundaryIs>
+                            <LinearRing id="110">
+                                <coordinates>76.40843825564285,15.83143233368112,0 76.4084505875248,15.831456013088578,0 76.40845820703876,15.831472171105107,0 76.40849767470075,15.831449026451168,0 76.40848102857295,15.831414070798639,0 76.40843825564285,15.83143233368112,0</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

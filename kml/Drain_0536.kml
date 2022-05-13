@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="244">
+        <Folder id="2">
+            <Style id="0">
+                <LineStyle id="1">
+                    <color>ffb5b204</color>
+                    <colorMode>normal</colorMode>
+                    <width>2.0</width>
+                </LineStyle>
+            </Style>
+            <name>Layer_Drain</name>
+            <Placemark id="4">
+                <name>Drain</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>536230001</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Drain</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>NULL</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>NULL</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>NULL</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>15.35140500635</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>75.99355551956</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>0.0</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>NULL</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>275.0507400021544</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>03080536</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="Shape_Leng">
+                        <value>274.979405645</value>
+                        <displayName>Shape_Leng</displayName>
+                    </Data>
+                    <Data name="path">
+                        <value>C:/Users/td5560474/OneDrive - Surbana Jurong Private Limited/Desktop/Work/2020.11.24/2020.11.18/Adavihalli_601359/ShapeFiles/Line/Layer_Drain.shp</value>
+                        <displayName>path</displayName>
+                    </Data>
+                </ExtendedData>
+                <MultiGeometry id="3">
+                    <LineString id="5">
+                        <coordinates>75.99351635386301,15.352021904092908,0 75.9935820271509,15.350790584601427,0 75.99359695362632,15.350793085396345,0 75.99352654987085,15.35201890266297,0 75.99351635386301,15.352021904092908,0</coordinates>
+                        <altitudeMode>clampToGround</altitudeMode>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

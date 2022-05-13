@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="204">
+        <Folder id="2">
+            <Style id="0">
+                <LineStyle id="1">
+                    <color>ffb5b204</color>
+                    <colorMode>normal</colorMode>
+                    <width>2.0</width>
+                </LineStyle>
+            </Style>
+            <name>Layer_Drain</name>
+            <Placemark id="4">
+                <name>NULL</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>689190054</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Drain</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>NULL</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>NULL</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>NULL</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>15.84353343114</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>76.20660937127</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>0.0</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>NULL</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>15.161120669659892</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308230689</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="Shape_Leng">
+                        <value>15.16112066966</value>
+                        <displayName>Shape_Leng</displayName>
+                    </Data>
+                    <Data name="path">
+                        <value>C:/Users/RS5560492/AppData/Local/Temp/processing_njspcE/f42bdd2ad70a4587a75b4dc7fde9cd78/OUTPUT\Layer_Drain.shp</value>
+                        <displayName>path</displayName>
+                    </Data>
+                </ExtendedData>
+                <MultiGeometry id="3">
+                    <LineString id="5">
+                        <coordinates>76.20657682631038,15.843479311110501,0 76.20659840456194,15.84348845760522,0 76.20662924668048,15.843598693374869,0</coordinates>
+                        <altitudeMode>clampToGround</altitudeMode>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="24">
+                <name>NULL</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>689190055</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Drain</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>NULL</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>NULL</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>NULL</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>15.84353360662</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>76.20661302191</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>0.0</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>NULL</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>14.97104239136838</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308230689</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="Shape_Leng">
+                        <value>14.97104239137</value>
+                        <displayName>Shape_Leng</displayName>
+                    </Data>
+                    <Data name="path">
+                        <value>C:/Users/RS5560492/AppData/Local/Temp/processing_njspcE/f42bdd2ad70a4587a75b4dc7fde9cd78/OUTPUT\Layer_Drain.shp</value>
+                        <displayName>path</displayName>
+                    </Data>
+                </ExtendedData>
+                <MultiGeometry id="23">
+                    <LineString id="25">
+                        <coordinates>76.20663199954883,15.843598406886347,0 76.20660031145408,15.84348424212916,0 76.20658351948074,15.843479002690229,0</coordinates>
+                        <altitudeMode>clampToGround</altitudeMode>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

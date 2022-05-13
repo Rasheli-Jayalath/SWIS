@@ -1,0 +1,474 @@
+/* CSS Document */
+ 
+/* @page {
+size: auto;
+margin: 0%;
+}
+ 
+   
+*/
+body
+{
+ padding:0px;
+ margin:0px;
+ font-family:  Verdana, Arial , Helvetica, sans-serif;
+ font-size:12px;
+ color:#666666;
+ 
+}
+
+p{text-align:justify;
+ background-image: none}
+h1 { color:; font-size:16px; }
+img{border:0;
+}
+
+#wrap{
+ width:950px;
+ margin:0 auto;
+}
+
+#wrapwide{
+ width:950px;
+ margin:0 0;
+ background-color:#06F;
+}
+
+#logo{
+ width:950px;
+ height:115px;
+ margin:0px 0 0 0;
+}
+
+ 
+#logo .smec{float:left; margin:0 145px 0 0;}
+#logo .egc{float:left;margin-top:10px;}
+
+#topmenu{
+ clear:both;
+ margin:10px 0 0 0;
+}
+#topmenu ul#menu {width: 100%; height: 43px; background: #FFF url("../images/menu-bg.gif") top left repeat-x; font-size: 13px; font-weight: bold; list-style-type: none; margin: 0; padding: 0; }
+ul#menu li { display: block; float: left; margin: 0 0 0 5px; }
+#topmenu ul#menu li a{ height: 35px; color: #fff; text-decoration: none; display: block; float: left; line-height: 200%; padding: 8px 8px 0; }
+#topmenu ul#menu li a:hover { color: #333; }
+#topmenu ul#menu li a.current{ color:#FFFFFF; background:  url("../images/current-bg.gif") top left repeat-x; padding: 8px 8px 0;  }
+
+#content{
+ width:100%;
+/* padding:5px;*/
+ /*border:1px #fdcb10 solid;*/
+}
+
+.content2 {
+	padding: 10px 0;
+	width: 860px;
+	float: left;
+}
+
+.content2 ul, .content2 ol { 
+	padding: 10px 10px 10px 20px; /* this padding mirrors the right padding in the headings and paragraph rule above. Padding was placed on the bottom for space between other elements on the lists and on the left to create the indention. These may be adjusted as you wish. */
+}
+
+.sidebar1 {
+	border:thin;
+	float: left;
+	width: 300px;
+	background: #EADCAE;
+	padding-bottom: 300px;
+}
+
+
+
+
+
+#cv-menu{
+ width:930px;
+ padding-left:10px;
+ margin:0;
+ list-style:none;
+ float:left;
+}
+#cv-menu li{
+ float:left;
+ margin:0 5px 0 0;
+}
+#cv-menu li a{
+ color:#000;
+ text-decoration:none;
+ font-weight:bold;
+ font-size:11px;
+}
+#cv-menu li a:hover{
+ color: #fdcb10;
+ text-decoration:none;
+}
+#cv-menu li a.sel{
+ color:#f27012;
+ text-decoration:none;
+ font-size:11px;
+ font-weight:bold;
+}
+input[type=text] { width:200px;}
+
+.formats a{
+ color:#666666;
+ text-decoration:none;
+ font-weight:bold;
+ font-size:9px;
+ background:#F5F5F5;
+ padding: 1px 4px;
+ border: 1px solid #CCCCCC;
+}
+.formats a:hover{
+ color:#FFFFFF;
+ text-decoration:none;
+ background:#F27012;
+ 
+}
+.formats a.sel{
+ color:#f27012;
+ text-decoration:none;
+ font-size:11px;
+ font-weight:bold;
+}
+.label { text-align:right;}
+.mend { color:#FF0000; }
+table.allformat {font-family:Arial, Helvetica, sans-serif; color:#000000; margin-bottom:13px;}
+table.allformat td{padding-left:2px; height:10px; vertical-align:top;}
+/*table.allformat td{height:10px; vertical-align:top;} */
+table.allformat td.bordsf{ border:1px solid;border-left:1px solid;font-size:12px; font-weight:normal;  }
+table.allformat td.bordsa{ font-size:12px; font-weight:normal;}
+table.allformat td.borjica{ font-size:18px; font-weight:bold; color:#03C;  }
+table.allformat td.borjicai{ font-size:14px; font-weight:normal;  }
+table.allformat td.borbf{ border:1px solid;border-left:1px solid;font-size:15px; font-weight:bold; vertical-align:middle; }
+table.allformat td.borbfbd{ border:1px solid;font-size:15px;  ;  }
+table.allformat td.bornf{ border:1px solid black;border-collapse:collapse;  font-size:15px; vertical-align:top;}
+table.allformat td.bordf{ border-bottom:1px solid;font-size:13px; vertical-align:top;}
+table.allformat td.bordk{ border:1px solid;border-left:1px solid;font-size:15px; vertical-align:middle;}
+table.allformat td.bordka{ border:1px solid;border-left:1px solid;font-size:15px; vertical-align:top;}
+td.cv{font-size:18px; font-weight:bold; text-align:center; }
+
+table.allformat td.nf{font-size:15px; vertical-align:top;}
+.nf{font-size:15px;vertical-align:middle; font-weight:normal;}
+.cvtitle{font-size:20px;vertical-align:middle; font-weight:bold; font-style:inherit;}
+td.hn{font-size:11px; color:#999999; text-align:right;}
+table.allformat td.bf{font-size:15px; font-weight:bold; height:0px; vertical-align:top; }
+table.allformat td.bff{font-size:15px; font-weight:bold; vertical-align:top;}
+table.allformat td.bfmb{font-size:15px; font-weight:bold; height:0px; vertical-align:middle; }
+table.allformat td.bfm{font-size:15px; font-weight:normal; height:0px; vertical-align:middle; }
+table.allformat ul li{padding:5px 0 5px 20px;}
+table.allformat ul{margin:0; padding-left:17px; padding-right:5px; text-align:justify;}
+
+table.lamp
+{
+width:100%;
+padding:0px;
+border:1px solid #d4d4d4;
+}
+
+table.lamp th
+{
+color:#000000;
+background-color:white;
+padding:10px;
+padding-right:5px;
+}
+
+table.lamp td
+{
+padding:4px;
+padding-left:0px;
+padding-right:10px;
+background-color:#ffffff;
+}
+
+
+
+table.tecspec th,table.tecspec td{
+	border:1px solid #d4d4d4;padding:5px;padding-top:7px;padding-bottom:7px;vertical-align:top;text-align:left;
+}
+table.reference,table.tecspec{
+	border-collapse:collapse;width:100%;
+}
+
+table.reference tr:nth-child(odd)	{background-color:#f1f1f1;}
+table.reference tr:nth-child(even)	{background-color:#ffffff;}
+
+table.reference tr.fixzebra			{background-color:#f1f1f1;}
+
+table.reference th{
+	color:#ffffff;background-color:#555555;border:1px solid #555555;padding:3px;vertical-align:top;text-align:left;
+}
+
+table.reference th a:link,table.reference th a:visited{
+	color:#ffffff;
+}
+
+table.reference th a:hover,table.reference th a:active{
+	color:#EE872A;
+}
+
+table.reference td{
+	border:1px solid #d4d4d4;padding:5px;padding-top:7px;padding-bottom:7px;vertical-align:top;
+}
+
+table.reference td.example_code
+{
+vertical-align:bottom;
+}
+
+
+/*.buttontwo {
+background-color: #CCC;
+color: #000;
+float: right;
+padding: 10px;
+border-radius: 10px;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+*/
+
+
+button {
+	background:#0099ff;
+}
+
+button:hover {
+	background:#36F;
+}
+
+OR
+
+input[type="submit"] {
+	background:#0099ff;
+}
+
+input[type="submit"]:hover {
+	background:#ff0000;
+}
+
+.buttontwo {
+    background-color: #666;
+    color: #FFF;
+    float: center;
+    padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    
+
+}
+
+
+
+
+.small-btn {
+    width: 50px;
+    height: 20px;
+}
+
+.medium-btn {
+    width: 70px;
+    height: 30px;
+}
+
+.big-btn {
+    width: 90px;
+    height: 40px;
+}
+
+
+
+input {
+    color: #000;
+}
+input::-webkit-input-placeholder {
+    color: #CCC;
+}
+input:focus::-webkit-input-placeholder {
+    color: #999;
+}
+
+input:-moz-placeholder {  
+    color: #555;  
+}
+
+/*textarea:hover, input[type="text"]:hover {
+background: #C0C0C0;
+}*/
+
+.mouseover:hover
+{
+    background-color:Yellow;
+    color:Blue;
+    text-decoration:none;
+}
+.mouseover
+{
+    background-color:Blue;
+    color:Yellow;
+    text-decoration:none;
+}
+
+.mouseover2
+{
+    background-color:#FFF;
+    color:#900;
+    text-decoration:none;
+	text-align:right;
+	font-size:11px;
+}
+
+ .mouseover2:hover
+{
+    background-color:#FFC;
+    color:#666;
+    text-decoration:none;
+	font-size:12px;
+}
+.mouseoversmall
+{
+    background-color:#FFF;
+    color:#900;
+    text-decoration:none;
+	text-align:right;
+	font-size:11px;
+}
+
+ .mouseoversmall:hover
+{
+ 
+    color:#666;
+    text-decoration:none;
+	font-size:11px;
+}
+
+.mg-image img {
+    -webkit-transition: all 1s ease; /* Safari and Chrome */
+  	-moz-transition: all 1s ease; /* Firefox */
+  	-o-transition: all 1s ease; /* IE 9 */
+  	-ms-transition: all 1s ease; /* Opera */
+  	transition: all 1s ease;
+    max-width: 100%;
+}
+
+.mg-image:hover img {
+    -webkit-transform:scale(2.25); /* Safari and Chrome */
+    -moz-transform:scale(2.25); /* Firefox */
+    -ms-transform:scale(2.25); /* IE 9 */
+    -o-transform:scale(2.25); /* Opera */
+     transform:scale(2.25);
+}
+/* just apply some height and width to the wrapper. 
+.mg-image {
+  width:120px;
+  height:120px;
+  overflow: auto;
+}
+
+*/
+
+ 
+input[type="submit"] {
+	background:#0099ff;
+}
+
+input[type="submit"]:hover {
+	background:#39F;
+}
+input[type="button"]:hover {
+	background:#093;
+}
+
+.buttontwo {
+    background-color: #666;
+    color: #FFF;
+    float: center;
+    padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+.button3 {
+   background-image: url ('../images/joomshopping-import-xls.jpg') no-repeat;
+  cursor:pointer;
+    background-color: #666;
+    color: #FFF;
+    float: center;
+    padding: 5px;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+}
+
+.buttonbig {
+   background-image: url ('../images/joomshopping-import-xls.jpg') no-repeat;
+    cursor:pointer;
+    background-color: #666;
+    color: #FFF;
+    float: center;
+    padding: 5px;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+	width:400px;
+	height:50px;
+}
+
+
+
+.small-btn {
+    width: 50px;
+    height: 20px;
+}
+
+.medium-btn {
+    width: 70px;
+    height: 30px;
+}
+
+.big-btn {
+    width: 90px;
+    height: 40px;
+}
+
+
+
+input {
+    color: #000;
+}
+input::-webkit-input-placeholder {
+    color: #CCC;
+}
+input:focus::-webkit-input-placeholder {
+    color: #999;
+}
+
+input:-moz-placeholder {  
+    color: #555;  
+}
+
+/*textarea:hover, input[type="text"]:hover {
+background: #C0C0C0;
+}*/
+
+.mouseover:hover
+{
+    background-color:Yellow;
+    color:Blue;
+    text-decoration:none;
+}
+.mouseover
+{
+    background-color:Blue;
+    color:Yellow;
+    text-decoration:none;
+}
+	
+ 
+.highlightme { background-color:#FFFF00; }
+p { background-color:#FFFFFF; }
+ 
+ 
+ 

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1348">
+        <Folder id="3">
+            <Style id="0">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2500000</scale>
+                    <heading>0</heading>
+                    <Icon id="2">
+                        <href>https://india-sdms.smecnet.com/SWIS/kml/Mobile_Tower.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Layer_Mobile_Tower</name>
+            <Placemark id="5">
+                <name>Mobile_Tower</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>585040234</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Mobile_Tower</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>NULL</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>NULL</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>0.0</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>15.87362553345</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>75.85638996531</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>NULL</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>tr</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>NULL</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308230585</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="path">
+                        <value>C:/Users/PK5560470/AppData/Local/Temp/processing_UaIqYE/50730e9b721b430abab98baff45fe5c9/OUTPUT\Layer_Mobile_Tower.shp</value>
+                        <displayName>path</displayName>
+                    </Data>
+                </ExtendedData>
+                <Point id="4">
+                    <coordinates>75.85638996530685,15.873625533446372,0</coordinates>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

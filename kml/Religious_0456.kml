@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Folder id="3">
+            <Style id="0">
+                <LineStyle id="1">
+                    <color>ff2eb1fc</color>
+                    <colorMode>normal</colorMode>
+                    <width>0.52</width>
+                </LineStyle>
+                <PolyStyle id="2">
+                    <color>ff00b3ff</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Name_Religious</name>
+            <Placemark id="5">
+                <name>Religious</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>456260147</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Building</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>Religious</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>Masjid</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>NULL</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>15.72528448024</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>76.27964666876</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>0.0</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>NULL</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>27.76425860341655</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308340456</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="Shape_Leng">
+                        <value>27.76425860342</value>
+                        <displayName>Shape_Leng</displayName>
+                    </Data>
+                    <Data name="Shape_Area">
+                        <value>46.31026749414</value>
+                        <displayName>Shape_Area</displayName>
+                    </Data>
+                    <Data name="bld_htc_in">
+                        <value>1</value>
+                        <displayName>bld_htc_in</displayName>
+                    </Data>
+                    <Data name="path">
+                        <value>C:/Users/AS5560491/OneDrive - Surbana Jurong Private Limited/Desktop/14_Dec_2020_Guntamadu_601274/Split_1/Polygon/Name_Religious.shp</value>
+                        <displayName>path</displayName>
+                    </Data>
+                    <Data name="temp">
+                        <value>0147</value>
+                        <displayName>temp</displayName>
+                    </Data>
+                </ExtendedData>
+                <MultiGeometry id="4">
+                    <Polygon id="6">
+                        <altitudeMode>clampToGround</altitudeMode>
+                        <outerBoundaryIs>
+                            <LinearRing id="10">
+                                <coordinates>76.2796888219426,15.725266949014753,0 76.27961337483299,15.725252206406926,0 76.2796041973516,15.72530229126051,0 76.27968076001635,15.725316347617943,0 76.2796888219426,15.725266949014753,0</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="32">
+                <name>Religious</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>456260148</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Building</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>Religious</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>Temple</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>NULL</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>15.72523879309</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>76.27935097077</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>0.0</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>NULL</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>21.816229685973553</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308340456</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="Shape_Leng">
+                        <value>21.81622968597</value>
+                        <displayName>Shape_Leng</displayName>
+                    </Data>
+                    <Data name="Shape_Area">
+                        <value>37.77890052352</value>
+                        <displayName>Shape_Area</displayName>
+                    </Data>
+                    <Data name="bld_htc_in">
+                        <value>1</value>
+                        <displayName>bld_htc_in</displayName>
+                    </Data>
+                    <Data name="path">
+                        <value>C:/Users/AS5560491/OneDrive - Surbana Jurong Private Limited/Desktop/14_Dec_2020_Guntamadu_601274/Split_1/Polygon/Name_Religious.shp</value>
+                        <displayName>path</displayName>
+                    </Data>
+                    <Data name="temp">
+                        <value>0148</value>
+                        <displayName>temp</displayName>
+                    </Data>
+                </ExtendedData>
+                <MultiGeometry id="31">
+                    <Polygon id="33">
+                        <altitudeMode>clampToGround</altitudeMode>
+                        <outerBoundaryIs>
+                            <LinearRing id="37">
+                                <coordinates>76.27938340726243,15.725238602931181,0 76.27938288038631,15.725233150238784,0 76.27938138395277,15.725227869001731,0 76.27937896343019,15.725222919687736,0 76.27937569236501,15.725218452679147,0 76.27937167014689,15.725214603703739,0 76.27936701898888,15.725211489710627,0 76.27936188021405,15.725209205316895,0 76.2793564099614,15.72520781993267,0 76.27935077444174,15.72520737565213,0 76.27934514488737,15.72520788597451,0 76.2793396923494,15.725209335393949,0 76.27933458250037,15.725211679870581,0 76.27932997060041,15.725214848168719,0 76.27932599677975,15.725218744021243,0 76.27932278178092,15.725223249054695,0 76.27932042329007,15.72522822638594,0 76.2793189929688,15.725233524781329,0 76.2793185342768,15.725238983251787,0 76.27931906115121,15.725244435944463,0 76.27932055758335,15.725249717182038,0 76.27932297810493,15.725254666496754,0 76.27932624916966,15.725259133506164,0 76.27933027138793,15.725262982482393,0 76.27933492254668,15.725266096476227,0 76.27934006132273,15.725268380870494,0 76.27934553157696,15.725269766255012,0 76.27935116709835,15.725270210535559,0 76.2793567966544,15.7252697002129,0 76.27936224919378,15.725268250792931,0 76.2793673590438,15.72526590631558,0 76.27937197094421,15.725262738016632,0 76.27937594476472,15.725258842163283,0 76.27937915976281,15.725254337129112,0 76.27938151825244,15.725249359797314,0 76.27938294857212,15.725244061401648,0 76.27938340726243,15.725238602931181,0</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

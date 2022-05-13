@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="64">
+        <Folder id="2">
+            <Style id="0">
+                <LineStyle id="1">
+                    <color>ffba6c65</color>
+                    <colorMode>normal</colorMode>
+                    <width>1.5</width>
+                </LineStyle>
+            </Style>
+            <name>Layer_Existing_Pipe_Line</name>
+            <Placemark id="4">
+                <name>NULL</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>570210045</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Existing_Pipe_Line</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>NULL</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>NULL</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>NULL</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>15.33522518829</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>76.02267127171</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>0.0</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>NULL</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>92.18552194747531</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308340570</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="Shape_Leng">
+                        <value>92.1623895644</value>
+                        <displayName>Shape_Leng</displayName>
+                    </Data>
+                    <Data name="path">
+                        <value>C:/Users/MA5560469/AppData/Local/Temp/processing_vpOiNC/83b6316b4a4c4406a369efedf723f112/OUTPUT\Layer_Existing_Pipe_Line.shp</value>
+                        <displayName>path</displayName>
+                    </Data>
+                </ExtendedData>
+                <MultiGeometry id="3">
+                    <LineString id="5">
+                        <coordinates>76.02225146571689,15.335309795056746,0 76.02239428349618,15.335286243375013,0 76.02257585083017,15.335241401845039,0 76.02275866352673,15.335210159233583,0 76.02284780138233,15.335195443651035,0 76.02308815821539,15.33512792197145,0</coordinates>
+                        <altitudeMode>clampToGround</altitudeMode>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="24">
+                <name>NULL</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>570210046</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Existing_Pipe_Line</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>NULL</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>NULL</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>NULL</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>15.33514107385</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>76.02254039875</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>0.0</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>NULL</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>23.407117132670102</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308340570</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="Shape_Leng">
+                        <value>23.401241988</value>
+                        <displayName>Shape_Leng</displayName>
+                    </Data>
+                    <Data name="path">
+                        <value>C:/Users/MA5560469/AppData/Local/Temp/processing_vpOiNC/83b6316b4a4c4406a369efedf723f112/OUTPUT\Layer_Existing_Pipe_Line.shp</value>
+                        <displayName>path</displayName>
+                    </Data>
+                </ExtendedData>
+                <MultiGeometry id="23">
+                    <LineString id="25">
+                        <coordinates>76.02251429321058,15.335038415926226,0 76.02254604451818,15.335159255297013,0 76.0225641549083,15.335244290277698,0</coordinates>
+                        <altitudeMode>clampToGround</altitudeMode>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="44">
+                <name>NULL</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>570210047</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Existing_Pipe_Line</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>NULL</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>NULL</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>NULL</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>15.33508916481</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>76.02279608282</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>0.0</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>NULL</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>25.08257902225811</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308340570</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="Shape_Leng">
+                        <value>25.0762853362</value>
+                        <displayName>Shape_Leng</displayName>
+                    </Data>
+                    <Data name="path">
+                        <value>C:/Users/MA5560469/AppData/Local/Temp/processing_vpOiNC/83b6316b4a4c4406a369efedf723f112/OUTPUT\Layer_Existing_Pipe_Line.shp</value>
+                        <displayName>path</displayName>
+                    </Data>
+                </ExtendedData>
+                <MultiGeometry id="43">
+                    <LineString id="45">
+                        <coordinates>76.02282146090543,15.335199792220243,0 76.0228207202924,15.335195566836125,0 76.0227704820095,15.334978582664771,0</coordinates>
+                        <altitudeMode>clampToGround</altitudeMode>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="64">
+                <name>NULL</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>570210048</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Existing_Pipe_Line</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>NULL</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>NULL</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>NULL</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>15.33503197422</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>76.02303949285</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>0.0</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>NULL</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>23.666435473987708</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308340570</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="Shape_Leng">
+                        <value>23.6604987905</value>
+                        <displayName>Shape_Leng</displayName>
+                    </Data>
+                    <Data name="path">
+                        <value>C:/Users/MA5560469/AppData/Local/Temp/processing_vpOiNC/83b6316b4a4c4406a369efedf723f112/OUTPUT\Layer_Existing_Pipe_Line.shp</value>
+                        <displayName>path</displayName>
+                    </Data>
+                </ExtendedData>
+                <MultiGeometry id="63">
+                    <LineString id="65">
+                        <coordinates>76.02308815821539,15.33512792197145,0 76.02299082749299,15.334936026461177,0</coordinates>
+                        <altitudeMode>clampToGround</altitudeMode>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="84">
+                <name>NULL</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>570210049</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Existing_Pipe_Line</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>NULL</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>NULL</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>NULL</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>15.33506186206</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>76.02291885045</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>0.0</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>NULL</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>285.29266092989934</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308340570</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="Shape_Leng">
+                        <value>285.221089883</value>
+                        <displayName>Shape_Leng</displayName>
+                    </Data>
+                    <Data name="path">
+                        <value>C:/Users/MA5560469/AppData/Local/Temp/processing_vpOiNC/83b6316b4a4c4406a369efedf723f112/OUTPUT\Layer_Existing_Pipe_Line.shp</value>
+                        <displayName>path</displayName>
+                    </Data>
+                </ExtendedData>
+                <MultiGeometry id="83">
+                    <LineString id="85">
+                        <coordinates>76.02245717876528,15.335793936568496,0 76.02244718337799,15.335773001178596,0 76.02234576131883,15.335639254000533,0 76.02232322880711,15.335574078714847,0 76.02227917003196,15.335429972311948,0 76.02225272397335,15.335327566796305,0 76.02223649558555,15.33509833520292,0 76.0223786470693,15.3350653717279,0 76.02250924400701,15.335039665743976,0 76.02264940478983,15.335004982826401,0 76.02279069379978,15.334974175402724,0 76.02291117171846,15.33494867013228,0 76.02301445364247,15.334932276086722,0 76.02322901882536,15.334888721944107,0 76.02346432668485,15.334836563418259,0 76.02359218519453,15.33481096157586,0 76.02380293211989,15.334773580445972,0 76.02390111244067,15.334765880286616,0 76.02408867179221,15.334738349151062,0 76.02408870738878,15.334738581308317,0</coordinates>
+                        <altitudeMode>clampToGround</altitudeMode>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="104">
+                <name>NULL</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>570210050</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Existing_Pipe_Line</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>NULL</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>NULL</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>NULL</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>15.33606538523</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>76.02251997448</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>0.0</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>NULL</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>367.9854595573156</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308340570</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="Shape_Leng">
+                        <value>367.893097924</value>
+                        <displayName>Shape_Leng</displayName>
+                    </Data>
+                    <Data name="path">
+                        <value>C:/Users/MA5560469/AppData/Local/Temp/processing_vpOiNC/83b6316b4a4c4406a369efedf723f112/OUTPUT\Layer_Existing_Pipe_Line.shp</value>
+                        <displayName>path</displayName>
+                    </Data>
+                </ExtendedData>
+                <MultiGeometry id="103">
+                    <LineString id="105">
+                        <coordinates>76.02140862824534,15.336981013445095,0 76.02144070045603,15.336927372352777,0 76.02146178068348,15.336889429307243,0 76.02150538887877,15.33682987496585,0 76.02154262567818,15.336773808372367,0 76.02159059607989,15.336712715379555,0 76.02164446319685,15.33664094389169,0 76.02169759176725,15.336567484442494,0 76.02176105367732,15.33648638160789,0 76.02184554043541,15.336374564993859,0 76.02190520878153,15.336296075696225,0 76.02193313397947,15.336263764655234,0 76.02198201111875,15.33619800565663,0 76.02203240513215,15.336150913944504,0 76.02207157381908,15.336111745405537,0 76.0221268781566,15.33604902141196,0 76.0222013330593,15.335980293214234,0 76.02228644593171,15.335927206413052,0 76.02241977224166,15.335833792251288,0 76.02249973982873,15.33575552712573,0 76.02252597981806,15.335786805464055,0 76.02261379127016,15.335941512007166,0 76.02266596462914,15.33603676036523,0 76.02281315992987,15.33600209028068,0 76.02297752099923,15.335950375700758,0 76.02314933672454,15.335904567732452,0 76.0233749864482,15.335844277995124,0 76.0235204649582,15.33580200841211,0 76.02348611938841,15.335682453006507,0 76.02347183635999,15.335608749935492,0 76.0234087993579,15.33540899647712,0 76.02337954747817,15.335316817959757,0</coordinates>
+                        <altitudeMode>clampToGround</altitudeMode>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="124">
+                <name>NULL</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>570210051</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Existing_Pipe_Line</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>NULL</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>NULL</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>NULL</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>15.33587580157</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>76.02216729861</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>0.0</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>NULL</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>28.06985769647203</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308340570</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="Shape_Leng">
+                        <value>28.0628098225</value>
+                        <displayName>Shape_Leng</displayName>
+                    </Data>
+                    <Data name="path">
+                        <value>C:/Users/MA5560469/AppData/Local/Temp/processing_vpOiNC/83b6316b4a4c4406a369efedf723f112/OUTPUT\Layer_Existing_Pipe_Line.shp</value>
+                        <displayName>path</displayName>
+                    </Data>
+                </ExtendedData>
+                <MultiGeometry id="123">
+                    <LineString id="125">
+                        <coordinates>76.02204357859192,15.33583977096572,0 76.02210793742714,15.335847606591617,0 76.02225882252861,15.3359125647428,0 76.02228644593171,15.335927206413052,0</coordinates>
+                        <altitudeMode>clampToGround</altitudeMode>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

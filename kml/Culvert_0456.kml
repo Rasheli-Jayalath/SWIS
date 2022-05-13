@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="104">
+        <Folder id="2">
+            <Style id="0">
+                <LineStyle id="1">
+                    <color>ffaeb3af</color>
+                    <colorMode>normal</colorMode>
+                    <width>1.0</width>
+                </LineStyle>
+            </Style>
+            <name>Layer_Culvert</name>
+            <Placemark id="4">
+                <name>Culvert</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>456180000</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Culvert</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>NULL</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>NULL</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>NULL</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>15.7262754159</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>76.27978495243</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>0.0</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>NULL</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>3.502479315173327</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308340456</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="Shape_Leng">
+                        <value>3.50247931517</value>
+                        <displayName>Shape_Leng</displayName>
+                    </Data>
+                    <Data name="path">
+                        <value>C:/Users/AS5560491/AppData/Local/Temp/processing_rkHTnl/4b72da802a1e4708841ad7fb424327be/OUTPUT\Layer_Culvert.shp</value>
+                        <displayName>path</displayName>
+                    </Data>
+                </ExtendedData>
+                <MultiGeometry id="3">
+                    <LineString id="5">
+                        <coordinates>76.27977461044125,15.72628212509261,0 76.27977805321521,15.726284997286443,0 76.27978166829432,15.726280345599175,0 76.27978938817448,15.726270412076072,0 76.27979301327187,15.726265747495933,0 76.27979238732641,15.72626264908399,0</coordinates>
+                        <altitudeMode>clampToGround</altitudeMode>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="24">
+                <name>Culvert</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>456180001</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Culvert</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>NULL</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>NULL</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>NULL</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>15.72630521136</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>76.27981639587</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>0.0</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>NULL</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>3.63667479120385</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308340456</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="Shape_Leng">
+                        <value>3.6366747912</value>
+                        <displayName>Shape_Leng</displayName>
+                    </Data>
+                    <Data name="path">
+                        <value>C:/Users/AS5560491/AppData/Local/Temp/processing_rkHTnl/4b72da802a1e4708841ad7fb424327be/OUTPUT\Layer_Culvert.shp</value>
+                        <displayName>path</displayName>
+                    </Data>
+                </ExtendedData>
+                <MultiGeometry id="23">
+                    <LineString id="25">
+                        <coordinates>76.27981164559512,15.726318022928039,0 76.2798086388962,15.726312657110556,0 76.27982437600811,15.72629530088832,0 76.27982756117945,15.726297270721805,0</coordinates>
+                        <altitudeMode>clampToGround</altitudeMode>
+                    </LineString>
+                </MultiGeometry>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

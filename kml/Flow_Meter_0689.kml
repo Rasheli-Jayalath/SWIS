@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="39">
+        <Folder id="3">
+            <Style id="0">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1.2500000</scale>
+                    <heading>0</heading>
+                    <Icon id="2">
+                        <href>https://india-sdms.smecnet.com/SWIS/kml/Flow_Meter.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Layer_Flow_Meter</name>
+            <Placemark id="5">
+                <name>NULL</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>689350001</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Flow_Meter</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>NULL</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>Pipe-63</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>313.364152545</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>8.55481372667</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>55.05160869299</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>0.0</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>FM</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>NULL</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308230689</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="path">
+                        <value>C:/Users/RS5560492/AppData/Local/Temp/processing_njspcE/8f264f95f6c34967b1239f039e565943/OUTPUT\Layer_Flow_Meter.shp</value>
+                        <displayName>path</displayName>
+                    </Data>
+                </ExtendedData>
+                <Point id="4">
+                    <coordinates>55.05160869298678,8.55481372667058,0</coordinates>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </Point>
+            </Placemark>
+            <Placemark id="22">
+                <name>NULL</name>
+                <styleUrl>#0</styleUrl>
+                <ExtendedData>
+                    <Data name="UID">
+                        <value>689350002</value>
+                        <displayName>UID</displayName>
+                    </Data>
+                    <Data name="Layer">
+                        <value>Flow_Meter</value>
+                        <displayName>Layer</displayName>
+                    </Data>
+                    <Data name="Name">
+                        <value>NULL</value>
+                        <displayName>Name</displayName>
+                    </Data>
+                    <Data name="Label">
+                        <value>Pipe-63</value>
+                        <displayName>Label</displayName>
+                    </Data>
+                    <Data name="GL">
+                        <value>NULL</value>
+                        <displayName>GL</displayName>
+                    </Data>
+                    <Data name="Angle">
+                        <value>280.643429374</value>
+                        <displayName>Angle</displayName>
+                    </Data>
+                    <Data name="Latitude">
+                        <value>20.3693443452</value>
+                        <displayName>Latitude</displayName>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>53.66604102871</value>
+                        <displayName>Longitude</displayName>
+                    </Data>
+                    <Data name="Elevation">
+                        <value>0.0</value>
+                        <displayName>Elevation</displayName>
+                    </Data>
+                    <Data name="RefName">
+                        <value>FM</value>
+                        <displayName>RefName</displayName>
+                    </Data>
+                    <Data name="Diameter">
+                        <value>NULL</value>
+                        <displayName>Diameter</displayName>
+                    </Data>
+                    <Data name="Length">
+                        <value>NULL</value>
+                        <displayName>Length</displayName>
+                    </Data>
+                    <Data name="GISCode">
+                        <value>0308230689</value>
+                        <displayName>GISCode</displayName>
+                    </Data>
+                    <Data name="path">
+                        <value>C:/Users/RS5560492/AppData/Local/Temp/processing_njspcE/8f264f95f6c34967b1239f039e565943/OUTPUT\Layer_Flow_Meter.shp</value>
+                        <displayName>path</displayName>
+                    </Data>
+                </ExtendedData>
+                <Point id="21">
+                    <coordinates>53.666041028706694,20.369344345199043,0</coordinates>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

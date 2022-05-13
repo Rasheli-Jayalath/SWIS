@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Hospital">
+  <name>Hospital</name>
+  <snippet></snippet>
+  <description><![CDATA[Hospital]]></description>
+  <Folder id="FeatureLayer0">
+    <name>Hospital</name>
+    <snippet></snippet>
+    <description><![CDATA[Hospital]]></description>
+    <Placemark id="ID_00000">
+      <name>Hospital</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>UID</td>
+<td>10001590</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>Hospital</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Hospital</td>
+</tr>
+<tr>
+<td>Label</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GL</td>
+<td></td>
+</tr>
+<tr>
+<td>Angle</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Latitude</td>
+<td>15.862375</td>
+</tr>
+<tr>
+<td>Longitude</td>
+<td>76.208754</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>RefName</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter</td>
+<td></td>
+</tr>
+<tr>
+<td>Length</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GISCode</td>
+<td>01010001</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>489.537307</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 76.20941254681628,15.86278298705457,0 76.2079943144203,15.86283226802142,0 76.20817122840432,15.86191492047047,0 76.2095075435372,15.86196458853644,0 76.20941254681628,15.86278298705457,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Hospital</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>UID</td>
+<td>10001592</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>Hospital</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Hospital</td>
+</tr>
+<tr>
+<td>Label</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GL</td>
+<td></td>
+</tr>
+<tr>
+<td>Angle</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Latitude</td>
+<td>15.862524</td>
+</tr>
+<tr>
+<td>Longitude</td>
+<td>76.208609</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>RefName</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter</td>
+<td></td>
+</tr>
+<tr>
+<td>Length</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GISCode</td>
+<td>01010001</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>17.433068</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 76.20863498564142,15.8625241999632,0 76.20863305790913,15.86253386959002,0 76.20862745435603,15.86254209002434,0 76.20861902758259,15.86254760824803,0 76.2086090594225,15.86254958553608,0 76.20859906929975,15.86254771964642,0 76.20859057733709,15.86254229585563,0 76.20858487527646,15.86253413852414,0 76.20858283339282,15.86252449105378,0 76.20858476019369,15.86251482143244,0 76.20859036468174,15.86250660099395,0 76.20859879145443,15.86250108277142,0 76.20860875867849,15.8624991054892,0 76.20861874973266,15.86250097137338,0 76.20862724169419,15.86250639516314,0 76.20863294282177,15.86251455249867,0 76.20863498564142,15.8625241999632,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff000000</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>ff3535b5</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

@@ -1,0 +1,16 @@
+Options +FollowSymlinks
+RewriteEngine on
+
+
+rewritecond %{http_host} ^212.61.65.89/~agro/newsite [nc]
+rewriterule ^(.*)$ http://212.61.65.89/~agro/newsite/$1 [r=301,nc]
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^/?products/([\-a-zA-Z\d]+)/?$ index.php?show=products&category=$1 [QSA,L]
+RewriteRule ^/?product/([\-a-zA-Z\d]+)/?$ index.php?show=product&product=$1 [QSA,L]
+RewriteRule ^/?category/([\-a-zA-Z\d]+)/?$ index.php?show=category&category=$1 [QSA,L]
+RewriteRule ^/?cms/([\-a-zA-Z\d]+)/?$ index.php?show=cms&content=$1 [QSA,L]
+RewriteRule ^/?(products|cart|register|contact|zoeken|offerte|sorry|TopTen|thankyou|cashondelivery|checkout|login|advanced|paypal|ideal|sitemap|my_orders|partners|changepwd|logout|myaccount|wishlist|forgot|oninvoice|under|newsletter)/?$ index.php?show=$1 [QSA,L]

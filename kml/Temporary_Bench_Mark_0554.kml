@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="69">
+	<name>0308340554_Temporary_Bench_Mark.kmz</name>
+	<Style id="0">
+		<IconStyle id="1">
+			<scale>1.2500000</scale>
+			<heading>0</heading>
+			<Icon id="2">
+				<href>https://india-sdms.smecnet.com/SWIS/kml/TBM.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder id="3">
+		<name>Layer_Temporary_Bench_Mark</name>
+		<Style id="0">
+			<IconStyle id="1">
+				<colorMode>normal</colorMode>
+				<scale>1.2500000</scale>
+				<heading>0</heading>
+				<Icon id="2">
+					<href>https://india-sdms.smecnet.com/SWIS/kml/TBM.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Placemark id="5">
+			<name>Temporary_Bench_Mark</name>
+			<styleUrl>#0</styleUrl>
+			<ExtendedData>
+				<Data name="UID">
+					<displayName>UID</displayName>
+					<value>554112055</value>
+				</Data>
+				<Data name="Layer">
+					<displayName>Layer</displayName>
+					<value>Temporary_Bench_Mark</value>
+				</Data>
+				<Data name="Name">
+					<displayName>Name</displayName>
+					<value>NULL</value>
+				</Data>
+				<Data name="Label">
+					<displayName>Label</displayName>
+					<value>NULL</value>
+				</Data>
+				<Data name="GL">
+					<displayName>GL</displayName>
+					<value>NULL</value>
+				</Data>
+				<Data name="Angle">
+					<displayName>Angle</displayName>
+					<value>0.0</value>
+				</Data>
+				<Data name="Latitude">
+					<displayName>Latitude</displayName>
+					<value>15.4428999922</value>
+				</Data>
+				<Data name="Longitude">
+					<displayName>Longitude</displayName>
+					<value>76.04331506616</value>
+				</Data>
+				<Data name="Elevation">
+					<displayName>Elevation</displayName>
+					<value>555.954</value>
+				</Data>
+				<Data name="RefName">
+					<displayName>RefName</displayName>
+					<value>tbm</value>
+				</Data>
+				<Data name="Diameter">
+					<displayName>Diameter</displayName>
+					<value>NULL</value>
+				</Data>
+				<Data name="Length">
+					<displayName>Length</displayName>
+					<value>NULL</value>
+				</Data>
+				<Data name="GISCode">
+					<displayName>GISCode</displayName>
+					<value>0308340554</value>
+				</Data>
+			</ExtendedData>
+			<Point id="4">
+				<coordinates>76.04331506615696,15.44289999219784,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

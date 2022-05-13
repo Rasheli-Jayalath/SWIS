@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Temple">
+  <name>Temple</name>
+  <snippet></snippet>
+  <description><![CDATA[Temple]]></description>
+  <Folder id="FeatureLayer0">
+    <name>Temple</name>
+    <snippet></snippet>
+    <description><![CDATA[Temple]]></description>
+    <Placemark id="ID_00000">
+      <name>Temple</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Temple</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>UID</td>
+<td>10001579</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>Temple</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Temple</td>
+</tr>
+<tr>
+<td>Label</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GL</td>
+<td></td>
+</tr>
+<tr>
+<td>Angle</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Latitude</td>
+<td>15.863037</td>
+</tr>
+<tr>
+<td>Longitude</td>
+<td>76.20937</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>RefName</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter</td>
+<td></td>
+</tr>
+<tr>
+<td>Length</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GISCode</td>
+<td>01010001</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>16.17489</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 76.20939462397246,15.86302709053328,0 76.20937873109307,15.86306110915598,0 76.20935190423475,15.86304459505374,0 76.20934579191713,15.86301571767845,0 76.20939462397246,15.86302709053328,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Temple</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Temple</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>UID</td>
+<td>10001580</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>Temple</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Temple</td>
+</tr>
+<tr>
+<td>Label</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GL</td>
+<td></td>
+</tr>
+<tr>
+<td>Angle</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Latitude</td>
+<td>15.864485</td>
+</tr>
+<tr>
+<td>Longitude</td>
+<td>76.209334</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>RefName</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter</td>
+<td></td>
+</tr>
+<tr>
+<td>Length</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GISCode</td>
+<td>01010001</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>46.977619</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 76.20925324813967,15.8645143680682,0 76.20925826508407,15.86445332994527,0 76.20941230363459,15.86445667802616,0 76.20941441758431,15.86451489417435,0 76.20925324813967,15.8645143680682,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Temple</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Temple</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>UID</td>
+<td>10001582</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>Temple</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Temple</td>
+</tr>
+<tr>
+<td>Label</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GL</td>
+<td></td>
+</tr>
+<tr>
+<td>Angle</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Latitude</td>
+<td>15.865934</td>
+</tr>
+<tr>
+<td>Longitude</td>
+<td>76.209293</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>RefName</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter</td>
+<td></td>
+</tr>
+<tr>
+<td>Length</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GISCode</td>
+<td>01010001</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>75.530656</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 76.20915750663519,15.8659933388137,0 76.20914839739852,15.86593076887933,0 76.2094389583436,15.8658750974593,0 76.20943296961291,15.86593462068022,0 76.20915750663519,15.8659933388137,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Temple</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Temple</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>UID</td>
+<td>10001584</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>Temple</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Temple</td>
+</tr>
+<tr>
+<td>Label</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GL</td>
+<td></td>
+</tr>
+<tr>
+<td>Angle</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Latitude</td>
+<td>15.864089</td>
+</tr>
+<tr>
+<td>Longitude</td>
+<td>76.208729</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>RefName</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter</td>
+<td></td>
+</tr>
+<tr>
+<td>Length</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GISCode</td>
+<td>01010001</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>24.756345</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 76.20875345151735,15.86405879128582,0 76.20876704335249,15.8641055978708,0 76.20870197356624,15.86411949493178,0 76.20869238404394,15.86406983956546,0 76.20875345151735,15.86405879128582,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Temple</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Temple</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>UID</td>
+<td>10001585</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>Temple</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Temple</td>
+</tr>
+<tr>
+<td>Label</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GL</td>
+<td></td>
+</tr>
+<tr>
+<td>Angle</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Latitude</td>
+<td>15.863395</td>
+</tr>
+<tr>
+<td>Longitude</td>
+<td>76.207522</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>RefName</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter</td>
+<td></td>
+</tr>
+<tr>
+<td>Length</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GISCode</td>
+<td>01010001</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>63.21617</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 76.2075838071725,15.86330568391792,0 76.20755830786871,15.86349506621111,0 76.20745804982262,15.86348273508432,0 76.20749278007027,15.86329222298967,0 76.2075838071725,15.86330568391792,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Temple</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Temple</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>UID</td>
+<td>10001587</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>Temple</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Temple</td>
+</tr>
+<tr>
+<td>Label</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GL</td>
+<td></td>
+</tr>
+<tr>
+<td>Angle</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Latitude</td>
+<td>15.864288</td>
+</tr>
+<tr>
+<td>Longitude</td>
+<td>76.209322</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>RefName</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter</td>
+<td></td>
+</tr>
+<tr>
+<td>Length</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GISCode</td>
+<td>01010001</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>54.670586</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 76.20939733562041,15.86423421911786,0 76.20940980860968,15.86432107830989,0 76.20924793397732,15.86434149451303,0 76.20923477589038,15.86425233243151,0 76.20939733562041,15.86423421911786,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff000000</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>ff67c5f6</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
